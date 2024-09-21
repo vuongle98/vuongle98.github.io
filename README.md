@@ -10,9 +10,6 @@ I'm Vuong, a software engineer who enjoys back-end development, focusing on Java
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **IDEs/Code editor**: IntelliJ, VS Code
 
-## 📚 Current Projects
-- 
-
 ## 🌍 Interests
 - **Programming**: Passionate about coding and learning new technologies.
 - **Photography**: Enjoy capturing moments in nature and sharing my work.
