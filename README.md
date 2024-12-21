@@ -5,8 +5,8 @@ I'm Vuong, a software engineer who enjoys back-end development, focusing on Java
 
 ## 🛠️ Skills
 - **Languages**: Java, Python, JavaScript, TypeScript
-- **Frameworks**: Spring, Angular
-- **Technologies**: Kafka, Activiti, AWS Glue, Spark, Kubernetes (K8s), Docker, Git
+- **Frameworks**: Spring, Django, Angular
+- **Technologies**: Kafka, Camunda, Activiti, AWS Servies, PySpark, Kubernetes (K8s), Docker, Git
 - **Database**: MongoDB, PostgreSQL, MySQL
 - **IDEs/Code editor**: IntelliJ, VS Code
 
